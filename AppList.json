@@ -1,0 +1,174 @@
+[
+    {
+        "Key": "Last Updated",
+        "Value": "2023-01-16 21:40:30Z"
+    },
+    {
+        "Key": "Adobe Acrobat",
+        "Value": "Acrobat.exe"
+    },
+    {
+        "Key": "Adobe Photoshop 2023",
+        "Value": "photoshop.exe"
+    },
+    {
+        "Key": "Adobe Illustrator 2023",
+        "Value": "illustrator.exe"
+    },
+    {
+        "Key": "Adobe Creative Cloud",
+        "Value": "Creative Cloud.exe"
+    },
+    {
+        "Key": "Adobe Substance 3D Painter",
+        "Value": "Adobe Substance 3D Painter.exe"
+    },
+    {
+        "Key": "Firefox Private Browsing",
+        "Value": "private_browsing.exe"
+    },
+    {
+        "Key": "Firefox",
+        "Value": "firefox.exe"
+    },
+    {
+        "Key": "Google Chrome",
+        "Value": "chrome.exe"
+    },
+    {
+        "Key": "Microsoft Edge",
+        "Value": "msedge.exe"
+    },
+    {
+        "Key": "Notepad++",
+        "Value": "notepad++.exe"
+    },
+    {
+        "Key": "Parallels Client",
+        "Value": "APPServerClient.exe"
+    },
+    {
+        "Key": "Remote Desktop",
+        "Value": "msrdcw.exe"
+    },
+    {
+        "Key": "TeamViewer",
+        "Value": "TeamViewer.exe"
+    },
+    {
+        "Key": "Royal TS6",
+        "Value": "royalts.exe"
+    },
+    {
+        "Key": "Elgato StreamDeck",
+        "Value": "StreamDeck.exe"
+    },
+    {
+        "Key": "Visual Studio 2022",
+        "Value": "devenv.exe"
+    },
+    {
+        "Key": "Visual Studio Code",
+        "Value": "code.exe"
+    },
+    {
+        "Key": "Camtasia Studio",
+        "Value": "CamtasiaStudio.exe"
+    },
+    {
+        "Key": "Camtasia Recorder",
+        "Value": "CamtasiaRecorder.exe"
+    },
+    {
+        "Key": "Jabra Direct",
+        "Value": "jabra-direct.exe"
+    },
+    {
+        "Key": "7-Zip File Manager",
+        "Value": "7zFM.exe"
+    },
+    {
+        "Key": "Access",
+        "Value": "MSACCESS.EXE"
+    },
+    {
+        "Key": "Excel",
+        "Value": "EXCEL.EXE"
+    },
+    {
+        "Key": "OneDrive",
+        "Value": "onedrive.exe"
+    },
+    {
+        "Key": "OneNote",
+        "Value": "ONENOTE.EXE"
+    },
+    {
+        "Key": "Outlook",
+        "Value": "OUTLOOK.EXE"
+    },
+    {
+        "Key": "PowerPoint",
+        "Value": "POWERPNT.EXE"
+    },
+    {
+        "Key": "Project",
+        "Value": "WINPROJ.EXE"
+    },
+    {
+        "Key": "Publisher",
+        "Value": "MSPUB.EXE"
+    },
+    {
+        "Key": "Visio",
+        "Value": "VISIO.EXE"
+    },
+    {
+        "Key": "Word",
+        "Value": "WINWORD.exe"
+    },
+    {
+        "Key": "PowerShell 7 (x64)",
+        "Value": "pwsh.exe"
+    },
+    {
+        "Key": "SQL Server Management Studio",
+        "Value": "ssms.exe"
+    },
+    {
+        "Key": "Azure Data Studio",
+        "Value": "azuredatastudio.exe"
+    },
+    {
+        "Key": "Zoom",
+        "Value": "zoom.exe"
+    },
+    {
+        "Key": "Skype for Business",
+        "Value": "Skype.exe"
+    },
+    {
+        "Key": "VLC Player",
+        "Value": "vlc.exe"
+    },
+    {
+        "Key": "Cisco Jabber",
+        "Value": "CiscoJabber.exe"
+    },
+    {
+        "Key": "Microsoft Teams",
+        "Value": "msteams.exe"
+    },
+    {
+        "Key": "PuTTY",
+        "Value": "putty.exe"
+    },
+    {
+        "Key": "wordpad",
+        "Value": "WORDPAD.EXE"
+    },
+    {
+        "Key": "1Password",
+        "Value": "1password.EXE"
+    }
+]
